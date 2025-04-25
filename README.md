@@ -12,19 +12,19 @@ A simple Python-based Weather client using the WeatherAPI.com to fetch:
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/weathernow.git
-cd weathernow
+- git clone https://github.com/rafatgom3a/simple-weather-app
+- cd simple-weather-app
 
 2. Install requests:
 
-python -m pip install requests
+- python -m pip install requests
 
 3. Get your FREE WeatherAPI key from WeatherAPI.com.
 
 4. Add your API key in weatherClient.py:
 
-api_key = "your_api_key_here"
+- api_key = "your_api_key_here"
 
 5. Run it:
 
-python weatherClient.py
+- python weatherClient.py
